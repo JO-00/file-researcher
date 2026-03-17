@@ -1,0 +1,11 @@
+streamlit
+ollama
+spacy
+transformers
+sentence-transformers
+pymupdf
+docx2txt
+numpy
+scikit-learn
+duckduckgo-search
+torch
